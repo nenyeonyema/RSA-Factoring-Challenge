@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
+# RSA Prime Factoring
 
 
 import sys
